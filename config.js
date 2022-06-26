@@ -14,13 +14,13 @@ global.gopay = '08971724481'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'AinulBotz'
-global.gc = 'https://chat.whatsapp.com/DWKPCpwSpQEAyfrlFExy4H'
-global.web = 'https://saweria.co/AinulBot' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 20.000\n2 Minggu 10.000\n1 Minggu 5.000'
+global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
+global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/AinulBotz-06-26-2' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/AinulBotz-06-26-2' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'AinulBotz'
@@ -29,7 +29,7 @@ global.wm2 = '                     「 AinulBotz⁩ 」'
 global.wm3 = '⫹⫺ AinulBotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/AinulBotz-06-26-2'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
